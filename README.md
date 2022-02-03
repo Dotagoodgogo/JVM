@@ -1,7 +1,4 @@
-Markup :  # Heading 1 #
+# Java Virtual Machine
 
--OR-
-
-Markup :  ============= (below H1 text)
 
 
