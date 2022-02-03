@@ -19,6 +19,7 @@ Write once, run anywhere！！！！！！！！！！！！！！！！！！
 Java程序-->字节码文件-->Win版 JVM,Linux版 JVM, Mac版 JVM。（字节码文件本身就具有跨平台性）
 
 JVM：跨语言的平台
+  (https://github.com/Dotagoodgogo/JVM/blob/main/javacontent/Photo/IMG_2628(20220203-013739).PNG)
 
 
 
