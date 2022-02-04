@@ -14,4 +14,7 @@
 
 ##  JVM的位置
 JVM的运行在操作系统之上，他与硬件没有直接的交互！
+
 ![](https://github.com/Dotagoodgogo/JVM/blob/main/javacontent/Photo/JVM%E4%BD%8D%E7%BD%AE.png)
+
+![](https://github.com/Dotagoodgogo/JVM/blob/main/javacontent/Photo/JDK.jpg)
